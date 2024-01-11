@@ -1,7 +1,9 @@
 # Currently Layering Neural Networks...
 
-![Animation - 1704995861789](https://github.com/fr3nz99/fr3nz99/assets/91369910/95d1c8e2-62fc-424a-a1fb-305b1383d4af)
+<p align="center">
+  <img width="460" height="300" src=![studying](https://github.com/fr3nz99/fr3nz99/assets/91369910/a6baa2c1-b3d3-4a3a-bf3a-0e998cd7b4ef)
 
+</p>
 
 <!--
 **fr3nz99/fr3nz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
