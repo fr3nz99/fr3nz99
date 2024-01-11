@@ -1,7 +1,7 @@
 # Currently Layering Neural Networks...
 
 <p align="center">
-  <img width="460" height="300" src=![studying](https://github.com/fr3nz99/fr3nz99/assets/91369910/a6baa2c1-b3d3-4a3a-bf3a-0e998cd7b4ef)
+  <img width="460" height="300" src="https://github.com/fr3nz99/fr3nz99/assets/91369910/a6baa2c1-b3d3-4a3a-bf3a-0e998cd7b4ef"
 
 </p>
 
