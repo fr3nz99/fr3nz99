@@ -26,7 +26,7 @@ The Thesis purpose is to study the effect of Normalizations on the [Initial Gues
 </p>
 
 
-I previously worked as a R&D Data Scientist in [Hyntelo](https://hyntelo.com) and as a Data Analytics Consultant.
+I previously worked as a R&D Data Scientist and as a Data Analytics Consultant in [Hyntelo](https://hyntelo.com).
 <hr style="border:1px black">
 
 
