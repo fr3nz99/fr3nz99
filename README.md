@@ -13,7 +13,7 @@
   
 I'm currently writing my Master's Thesis on Deep Learning at [Eawag](https://www.eawag.ch/en/) - Swiss Federal Institute for Aquatic Research.
 
-The Thesis topic is the [Initial Guessing Bias](https://arxiv.org/abs/2306.00809) and the effects of Normalizations on it.
+The Thesis purpose is to study the effect of Normalizations on the [Initial Guessing Bias](https://arxiv.org/abs/2306.00809).
 
 
 <hr style="border:1px black">
