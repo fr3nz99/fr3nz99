@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Animation - 1704995547754](https://github.com/fr3nz99/fr3nz99/assets/91369910/1fa28c9b-cde9-4a4e-9086-b6b9f6762e5f)
+
+
+Currently on multiple stuff...
 <!--
 **fr3nz99/fr3nz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
